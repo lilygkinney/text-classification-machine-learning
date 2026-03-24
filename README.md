@@ -116,6 +116,6 @@ The performance of each model was compared across both datasets to determine whi
 
 ---
 
-## 📌 Acknowledgments  
+## Acknowledgments  
 
 This project was completed as part of Florida State University's Directed Reading Program under the supervision of Rafiq Islam.  
