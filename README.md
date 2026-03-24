@@ -52,7 +52,7 @@ The following machine learning models were implemented and compared:
 - Train-test split and cross-validation  
 - Hyperparameter tuning  
 
-These models were chosen to explore different approaches to classification and evaluate how model complexity impacts performance. :contentReference[oaicite:0]{index=0}  
+These models were chosen to explore different approaches to classification and evaluate how model complexity impacts performance. 
 
 ---
 
@@ -65,7 +65,7 @@ Models were evaluated using standard classification metrics:
 - Recall  
 - F1 Score  
 
-The performance of each model was compared across both datasets to determine which approaches generalize best to different types of text data. :contentReference[oaicite:1]{index=1}  
+The performance of each model was compared across both datasets to determine which approaches generalize best to different types of text data. 
 
 ---
 
